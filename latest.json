@@ -5,7 +5,7 @@
     "versionCode": 100,
     "url": "https://github.com/mstf01/AeroManager/releases/latest/download/manager.apk",
     "changelog":"- New UI for Aero app cards\n- Added a progress percentage inside downloader dialogs\n- Pressing the version card in the About menu will now show a manager changelog menu\n- Updated layouts to make them look more similar\n- \"INSTALL_FAILED_INTERNAL_ERROR: Permission denied\" will now always redirect to the MIUI optimizations dialog\n- Optimized accent-themed views \n- Removed/Updated old code\n- Fixed button not working in the welcome screen for RTL languages\n- Fixed \"[INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install com.google.android.youtube without first uninstalling]\" in root installer\n- Fixed crash if the session id is null in root installer" },
-"vanced": {
+"whatsapp": {
     "version": "8.86",
     "versionCode": 886, 
     "themes": [ "dark", "black", "com.aero", "com.whatsapp", "com.aerolla" ],
@@ -15,12 +15,12 @@
     ],
     "changelog": "- based on 16.16.38\n- preferred quality for videos fixed\n- battery drain fixed\n- random switching to white theme fixed\n- sponsorblock buttons getting stuck at the end of videos fixed\n- video id not getting set on sponsorblock and copy url button fixed\n- swipe controls fixed (however in order to make them work end cards have to be disabled now while swipe controls are on)\nKnown issues:\n- casting still broken on nonroot due to microG, it will need to be patched upstream first or a bypass will need to be found, use stock youtube for now or root vanced (vanced does not block casting ads)\n- preferred quality not working on portrait videos (has been an issue since 15.x)"
   },
-  "music": {
+  "instagram": {
     "version": "15.0.1",
     "versionCode": 1501,
     "changelog": "- increased base to 4.29.50\n- added a new header icon\n- added the following mods: tablet mode, compact header. (thanks to Oizaro)"
   },
-  "microg": {
+  "twitter": {
     "version": "0.2",
     "versionCode": 02,
     "url": "https://download2261.mediafire.com/u0a8bvurlzlg/f347trp73bpn5d4/AeroWitter_V0.2_UNClone_DEFAULT_Hazar.apk",
