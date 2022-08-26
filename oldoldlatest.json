@@ -22,7 +22,7 @@
   },
   "twitter": {
     "version": "0.2",
-    "versionCode": 02,
+    "versionCode": "02",
     "url": "https://download2261.mediafire.com/u0a8bvurlzlg/f347trp73bpn5d4/AeroWitter_V0.2_UNClone_DEFAULT_Hazar.apk",
     "changelog": "- update to latest upstream\n- fix missing class"
   }
